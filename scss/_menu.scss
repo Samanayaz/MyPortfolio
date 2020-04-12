@@ -86,9 +86,9 @@
       transform: translate3d(0, 0, 0);
     }
 
-    .portrait {
+    .bio-image {
       width: 250px;
-      height: 250px;
+      // height: 250px;
       background: url("../dist/img/saman.jpg");
       border-radius: 50%;
       border: solid 3px $secondary-color;

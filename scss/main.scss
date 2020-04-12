@@ -95,15 +95,25 @@ main {
 
   .job-1 {
     grid-area: job1;
+
+    .certi-img {
+      width: 450px;
+      height: 300px;
+    }
   }
 
   .job-2 {
     grid-area: job2;
+
+    .certi-img {
+      width: 450px;
+      height: 300px;
+    }
   }
 
-  .job-3 {
-    grid-area: job3;
-  }
+  // .job-3 {
+  //   grid-area: job3;
+  // }
 
   .job {
     background: lighten($primary-color, 5);
